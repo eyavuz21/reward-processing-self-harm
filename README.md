@@ -5,12 +5,12 @@
 This repository contains the analysis scripts for a two-part study investigating cognitive biases in reward processing among youth with self-harm (SH) histories.
 
 ## 🔬 Project Overview
-We tested whether SH behavior is underpinned by motivational biases toward SH-related cues using a novel **Incentive Delay Task (IDT)**. Across two studies (including an online Trier Social Stress Test for negative affect induction), we compared SH groups to healthy controls and groups with negative affect but no SH history.
+We tested whether SH behaviour is underpinned by motivational biases toward SH-related cues using a novel **Incentive Delay Task (IDT)**. Across two studies (including an online Trier Social Stress Test for negative affect induction), we compared SH groups to healthy controls and groups with negative affect but no SH history.
 
 ## 📊 Key Findings
 - **General Findings:** No significant between-group differences in IDT performance across SH, social, or monetary trials, contradicting the "addictive bias" hypothesis.
 - **Individual Differences:** Specific SH characteristics (e.g., positive reinforcement, mental imagery, and urges) were significantly correlated with better performance on SH trials.
-- **Clinical Implication:** SH behavior may not be driven by a broad motivational bias toward SH cues, suggesting more nuanced drivers of individual behavior.
+- **Clinical Implication:** SH behaviour may not be driven by a broad motivational bias toward SH cues, suggesting more nuanced drivers of individual behaviour.
 
 ## 📁 Files
 - `SHPart1.R`: Statistical analysis for Study 1 (Cross-sectional comparison).
